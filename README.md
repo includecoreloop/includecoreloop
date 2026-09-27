@@ -23,3 +23,4 @@ All code and projects will always remain 100% free and open source. If you find 
 
 [![Ko-fi](https://img.shields.io/badge/Support_on_Ko--fi-13C5DD?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/includecoreloop)
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor_on_GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/includecoreloop)
+[![Itch.io](https://img.shields.io/badge/Support_on_Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://includecoreloop.itch.io)
