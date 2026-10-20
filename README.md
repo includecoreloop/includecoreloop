@@ -1,19 +1,18 @@
 ### 🎮 Exploring Low-Level Game Dev
 
-I share my low-level game dev journey while trying to create educational value for others.
-
 ---
 
 ### 📦 Featured Repositories
 
-* **[range-day](https://github.com/includecoreloop/range-day)** — C / ECS / Raylib 2D top-down shooter template. Zero external visual assets.
+* **[arpg-combat-demo](https://github.com/includecoreloop/arpg-combat-demo)** — C / ECS / Raylib 3D isometric ARPG combat system demo.
+* **[range-day](https://github.com/includecoreloop/range-day)** — C / ECS / Raylib 2D top-down shooter demo.
 * **[raylib-parallax-2d](https://github.com/includecoreloop/raylib-parallax-2d)** — 2D parallax background scrolling template for Raylib written in C.
 
 ---
 
 ### ⚙️ Topics & Interests
 
-`C / C++` • `System Architecture` • `ECS` • `Game Development` • `Open Source`
+`C / C++` • `System Architecture` • `ECS` • `Game Development` • `Open Source` • `SDL3`
 
 ---
 
