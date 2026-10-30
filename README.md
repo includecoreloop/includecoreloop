@@ -4,7 +4,7 @@
 
 ### 📦 Featured Repositories
 
-* **[sprite-animations](https://github.com/includecoreloop/sprite-animations)** — C++ / SDL3 Sprite Animations.
+* **[sprite-animations](https://github.com/includecoreloop/sprite-animations)** — C++ / SDL3 sprite animations.
 * **[arpg-combat-demo](https://github.com/includecoreloop/arpg-combat-demo)** — C / ECS / Raylib 3D isometric ARPG combat system demo.
 * **[range-day](https://github.com/includecoreloop/range-day)** — C / ECS / Raylib 2D top-down shooter demo.
 * **[raylib-parallax-2d](https://github.com/includecoreloop/raylib-parallax-2d)** — 2D parallax background scrolling template for Raylib written in C.
